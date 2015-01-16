@@ -18,6 +18,8 @@ public class Hello {
         // TODO code application logic here
         System.out.println("Olá Mundo, hehe!!");
         System.out.println("FAz logo o commit");
+        System.out.println("Teste");
+        
         
     }
     
